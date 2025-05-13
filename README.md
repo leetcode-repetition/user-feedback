@@ -9,7 +9,7 @@ This repository is used for reporting bugs and requesting new features for the L
 When you encounter incorrect behavior or an error, please:
 
 1. **Click “New issue”** and choose the **🐛 Bug Report** template.  
-2. **Search existing issues** to see if the bug has already been reported; if so, add any new details or 👍 reactions.  
+2. **Search existing issues** to see if the bug has already been reported; if so, add any new details or reactions.  
 3. **Fill in all sections** of the bug template, including:  
    * **What is the bug?** – A clear description of the problem.  
    * **How can one reproduce the bug?** – Exact clicks or commands to trigger it.  
