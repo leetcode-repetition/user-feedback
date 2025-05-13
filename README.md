@@ -1,6 +1,6 @@
 # Bugs & Features
 
-This repository is the one-stop place for reporting bugs and requesting new features for the LeetCode Spaced Repetition web extension.
+This repository is used for reporting bugs and requesting new features for the LeetCode Spaced Repetition web extension.
 
 ## Table of Contents
 
