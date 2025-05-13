@@ -14,8 +14,9 @@ body:
     id: user_story
     attributes:
       label: "User story"
-      description: "Who is this for and what can they achieve?"
-      placeholder: "As a <type of user>, I want to <action> so that <benefit>."
+      description: "As a <type of user>, I want to <action> so that <benefit>."
+      placeholder: "e.g., As a new user, I want guided review intervals to retain concepts."
+    validations:
       required: true
   - type: textarea
     id: use_case
@@ -23,18 +24,11 @@ body:
       label: "Use case"
       description: "How and why you would use this feature"
       placeholder: "Describe a scenario where this feature helps."
+    validations:
       required: true
   - type: textarea
-    id: implementation_notes
+    id: implementation_details
     attributes:
-      label: "Implementation notes (optional)"
-      description: "Any ideas or sketches for how this could work"
-      placeholder: "UI mockup links, API details, etc."
-      required: false
-  - type: textarea
-    id: additional_notes
-    attributes:
-      label: "Additional notes"
-      description: "Any other context or references"
-      placeholder: "Links to related discussions or docs"
-      required: false
+      label: "Implementation details (optional)"
+      description: "Any API/UI suggestions or mockups"
+      placeholder: "Sketches, links, or high-level ideas"
