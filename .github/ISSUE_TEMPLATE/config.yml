@@ -3,9 +3,9 @@
 blank_issues_enabled: false
 
 contact_links:
-  - name: "Bug report"
+  - name: "🐛 Bug Report"
     url:  "https://github.com/leetcode-repetition/user-feedback/issues/new?template=bug-report.md"
     about: "Report a bug or unexpected behavior" 
-  - name: "Feature request"
+  - name: "✨ Feature Request"
     url:  "https://github.com/leetcode-repetition/user-feedback/issues/new?template=feature-request.md"
     about: "Suggest a new feature or improvement"
