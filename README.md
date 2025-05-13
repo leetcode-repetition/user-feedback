@@ -7,8 +7,7 @@ This repository is used for reporting bugs and requesting new features for the L
 1. [Reporting a Bug](#reporting-a-bug)  
 2. [Requesting a Feature](#requesting-a-feature)  
 3. [Templates](#templates)  
-4. [Labels](#labels)  
-5. [Contact](#contact)  
+4. [Contact](#contact)  
 
 ---
 
@@ -50,21 +49,6 @@ We’ve configured two templates in `.github/ISSUE_TEMPLATE/` so you can file th
 * **feature-request.md** – Feature ideas  
 
 Templates ensure you include all necessary details up front, improving turnaround and clarity.
-
----
-
-## Labels
-
-We use standardized labels to organize and prioritize issues:
-
-| Label         | Description                                  |
-| ------------- | -------------------------------------------- |
-| `bug`         | Confirmed software bugs or errors            |
-| `enhancement` | New feature requests or improvements         |
-| `question`    | General questions or clarifications          |
-| `help wanted` | Good first issues for contributors           |
-
-Filter by label when searching to find relevant threads quickly.
 
 ---
 
