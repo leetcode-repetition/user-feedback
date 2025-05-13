@@ -1,0 +1,11 @@
+# .github/ISSUE_TEMPLATE/config.yml
+
+blank_issues_enabled: false
+
+contact_links:
+  - name: "Issue report"
+    url:  "https://github.com/leetcode-repetition/user-feedback/issues/new?template=issue-report.yml"
+    about: "Report an issue or unexpected behavior" 
+  - name: "Feature request"
+    url:  "https://github.com/leetcode-repetition/user-feedback/issues/new?template=feature-request.yml"
+    about: "Suggest a new feature or improvement"
