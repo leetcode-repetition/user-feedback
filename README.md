@@ -6,8 +6,7 @@ This repository is used for reporting bugs and requesting new features for the L
 
 1. [Reporting a Bug](#reporting-a-bug)  
 2. [Requesting a Feature](#requesting-a-feature)  
-3. [Templates](#templates)  
-4. [Contact](#contact)  
+3. [Contact](#contact)  
 
 ---
 
@@ -38,17 +37,6 @@ Have an idea to improve the extension? Here’s how to share it:
    * **What solution would you like?** – Clear description of the new functionality.  
    * **What alternatives have you considered?** – Any other solutions you evaluated.  
 4. **Submit**—we’ll review and add it to our roadmap if it fits the project scope.
-
----
-
-## Templates
-
-We’ve configured two templates in `.github/ISSUE_TEMPLATE/` so you can file the right kind of feedback every time:
-
-* **bug-report.md** – Bug reports  
-* **feature-request.md** – Feature ideas  
-
-Templates ensure you include all necessary details up front, improving turnaround and clarity.
 
 ---
 
