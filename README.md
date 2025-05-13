@@ -2,12 +2,6 @@
 
 This repository is used for reporting bugs and requesting new features for the LeetCode Spaced Repetition web extension.
 
-## Table of Contents
-
-1. [Reporting a Bug](#reporting-a-bug)  
-2. [Requesting a Feature](#requesting-a-feature)  
-3. [Contact](#contact)  
-
 ---
 
 ## Reporting a Bug
