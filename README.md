@@ -11,7 +11,7 @@ This repository is used to report bugs and request new features for the LeetCode
 
 ---
 
-## Reporting an Issue  
+## Reporting a Bug  
 When you encounter incorrect behavior or an error, please:
 
 1. **Click “New issue”** and choose the **Bug report** template.
