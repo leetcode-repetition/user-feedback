@@ -39,8 +39,8 @@ Have an idea to improve the tool? Here’s how to share it:
 
 ## Templates  
 We’ve configured two templates in `.github/TEMPLATES/` so you can file the right kind of feedback every time
-- **1-issue-report.yml** – Bug reports  
-- **2-feature-request.yml** – Feature ideas  
+- **issue-report.yml** – Bug reports  
+- **feature-request.yml** – Feature ideas  
 
 Templates ensure you include all necessary details up front, improving turnaround and clarity.
 
