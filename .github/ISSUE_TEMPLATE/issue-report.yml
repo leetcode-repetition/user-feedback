@@ -1,45 +1,25 @@
 # .github/ISSUE_TEMPLATE/issue-report.yml
-name: "Issue report"
-description: "Report an error or unexpected behavior in the extension"
-title: "[ISSUE] "
-labels:
-  - "bug"
-body:
-  - type: markdown
-    attributes:
-      value: |
-        ## 🐞 Describe the issue
-        A clear and concise description of what went wrong.
-  - type: input
-    id: environment
-    attributes:
-      label: "Environment"
-      description: "Please specify your OS, browser, and extension version"
-      placeholder: "e.g. Windows 10, Chrome 100.0.4896.127, v1.4.2"
-      required: true
-  - type: textarea
-    id: steps_to_reproduce
-    attributes:
-      label: "Steps to reproduce"
-      description: "List the steps needed to reproduce the issue"
-      placeholder: |
-        1. Go to '...'
-        2. Click on '...'
-        3. Observe error
-      required: true
-  - type: textarea
-    id: expected_vs_actual
-    attributes:
-      label: "Expected vs. actual behavior"
-      description: "Explain what you expected to happen and what actually happened"
-      placeholder: |
-        **Expected:** The extension should…
-        **Actual:** Instead, it…
-      required: true
-  - type: textarea
-    id: additional_context
-    attributes:
-      label: "Additional context"
-      description: "Add any other context, screenshots, or logs"
-      placeholder: "Paste screenshots or console output here"
-      required: false
+---
+name: 🐛 Bug Report
+about: Create a report to help us improve
+title: '[BUG]'
+labels: 'bug, untriaged'
+assignees: ''
+---
+### What is the bug?
+_A clear and concise description of the bug._
+
+### How can one reproduce the bug?
+_Steps to reproduce the behavior._
+
+### What is the expected behavior?
+_A clear and concise description of what you expected to happen._
+
+### What is your host/environment?
+_Operating system, version._
+
+### Do you have any screenshots?
+_If applicable, add screenshots to help explain your problem._
+
+### Do you have any additional context?
+_Add any other context about the problem._
