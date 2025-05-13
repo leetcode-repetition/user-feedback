@@ -1,0 +1,40 @@
+# .github/TEMPLATES/feature-request.yml
+name: "Feature request"
+description: "Suggest a new feature or improvement for the extension"
+title: "[FEATURE] "
+labels:
+  - "enhancement"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ✨ Describe the feature
+        A clear and concise description of the functionality you’d like to see.
+  - type: input
+    id: user_story
+    attributes:
+      label: "User story"
+      description: "Who is this for and what can they achieve?"
+      placeholder: "As a <type of user>, I want to <action> so that <benefit>."
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: "Use case"
+      description: "How and why you would use this feature"
+      placeholder: "Describe a scenario where this feature helps."
+      required: true
+  - type: textarea
+    id: implementation_notes
+    attributes:
+      label: "Implementation notes (optional)"
+      description: "Any ideas or sketches for how this could work"
+      placeholder: "UI mockup links, API details, etc."
+      required: false
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: "Additional notes"
+      description: "Any other context or references"
+      placeholder: "Links to related discussions or docs"
+      required: false
